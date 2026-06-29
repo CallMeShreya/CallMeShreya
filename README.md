@@ -222,7 +222,7 @@
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=CallMeShreya&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=CallMeShreya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallMeShreya&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -327,3 +327,84 @@ Let's connect and grow together 🚀
 
 </div>
 
+---
+
+# 🚀 Featured Project
+
+## 🚖 OLA Ride Analytics | Power BI Dashboard
+<p align="center">
+
+<img src="images/01_Executive_Dashboard.png" width="900"/>
+
+</p>
+
+A complete end-to-end Data Analytics project built using **Power BI, SQL, Excel, and Python**. This project analyzes ride bookings, customer behavior, revenue trends, vehicle performance, and operational insights to support data-driven decision making.
+
+### 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi" height="45"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" height="45"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=excel" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</p>
+
+### 📂 Repository Contents
+
+- 📊 Power BI Dashboard (.pbix)
+- 📄 Project Report
+- 📑 Presentation (PPT)
+- 🗂 Dataset (Excel)
+- 🛢 SQL Queries
+- 📸 Dashboard Screenshots
+
+---
+
+## 📊 Dashboard Preview
+
+### Executive Dashboard
+
+<img src="images/01_Executive_Dashboard.png" width="900">
+
+### Customer & Ratings Analysis
+
+<img src="images/02_Customer_Ratings.png" width="900">
+
+### Operations Analysis
+
+<img src="images/03_Operations_Analysis.png" width="900">
+
+---
+
+## 📁 Project Structure
+
+```text
+📂 dataset
+📂 images
+📂 presentation
+📂 report
+📂 sql
+```
+
+---
+
+## 💡 Key Insights
+
+✔ Revenue Analysis
+
+✔ Ride Trends
+
+✔ Customer Behaviour
+
+✔ Driver Performance
+
+✔ Vehicle-wise Analysis
+
+✔ Cancellation Analysis
+
+✔ Payment Method Analysis
+
+---
+
+⭐ If you like this project, don't forget to give it a ⭐ on GitHub!
