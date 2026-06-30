@@ -221,8 +221,11 @@
 # 📈 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CallMeShreya&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallMeShreya&layout=compact&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CallMeShreya&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CallMeShreya&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -230,7 +233,7 @@
 # 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CallMeShreya&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=CallMeShreya&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
